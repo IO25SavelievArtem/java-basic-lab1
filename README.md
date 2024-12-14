@@ -11,6 +11,6 @@
 ## Інструкції з побудови та запуску
 
 ### 1. Клонуйте репозиторій собі на комп'ютер
-  git clone 
+  git clone https://github.com/IO25SavelievArtem/java-basic-lab1
 ### 2. Запуск проекту: 
   Запустіть головний клас Main
